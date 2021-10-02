@@ -7,4 +7,33 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FFA500</color>
+    <color name="darkPrimary">#AFB42B</color>
+    <color name="lightPrimary">#F0F4C3</color>
+    <color name="primaryColor">#689F38</color>
+    <color name="accentColor">#8BC34A</color>
+    <color name="textPrimaryColor">#212121</color>
+    <color name="iconColor">#F0F4C3</color>
+    <color name="iconColorText">#212121</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#F7B162</color>
+    <color name="themeColor">#F7B162</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="lightPrimaryColor">#CFD8DC</color>
+    <color name="whiteSmoke">#F5F5F5</color>
+    <color name="FragmentBody">#CDDC39</color>
+    <color name="secondaryColor">#757575</color>
+
+
+    <!--normal colors-->
+    <color name="darkTextColor">#020000</color>
+
+
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#F7B162</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#F7B162</color>
 </resources>
