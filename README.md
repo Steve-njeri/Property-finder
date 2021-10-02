@@ -5,9 +5,9 @@
 
 ## Description
 
-```bash
-
-Property Finder is the Kenyan #1 property site to help you find the perfect home. Be able to search thousands of available options for properties to buy and rent, from apartments to villas, townhouses, penthouses, compound, offices, and plots of land.
+Property Finder is the Kenyan #1 property site to help you find the perfect home. 
+Be able to search thousands of available options for properties to buy and rent, 
+from apartments to villas, townhouses, penthouses, compound, offices, and plots of land.
 
 ```
 ## Technologies Used
